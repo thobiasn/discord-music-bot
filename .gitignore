@@ -1,0 +1,10 @@
+.virtualenvs/
+venv/
+log/
+.idea/
+.git/
+ffmpeg.exe
+ffplay.exe
+ffprobe.exe
+__pycache__
+config.bak.py

@@ -1,0 +1,2 @@
+COMMAND_PREFIX = '!'
+TOKEN = ''
